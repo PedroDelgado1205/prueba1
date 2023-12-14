@@ -69,6 +69,6 @@ fun main() {
     biblioteca.prestarLibro(libro1, usuario1)
     biblioteca.prestarLibro(libro3, usuario2)
 
-    biblioteca.mostrarLibrosDisponibles()
     biblioteca.mostrarUsuariosRegistrados()
+    biblioteca.mostrarLibrosDisponibles()
 }
